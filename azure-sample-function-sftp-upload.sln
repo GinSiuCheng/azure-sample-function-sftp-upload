@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-sample-function-sftp-upload", "azure-sample-function-sftp-upload\azure-sample-function-sftp-upload.csproj", "{4AECF138-C2F8-4827-9377-F0A55880C16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AECF138-C2F8-4827-9377-F0A55880C16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AECF138-C2F8-4827-9377-F0A55880C16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AECF138-C2F8-4827-9377-F0A55880C16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AECF138-C2F8-4827-9377-F0A55880C16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B2C05B-FB40-4859-B53A-F8812EC8430F}
+	EndGlobalSection
+EndGlobal
