@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "storageAcct": "<Your Storage Account Connection String>",
+    "serveraddress": "<Your SFTP Server Addr>",
+    "sftpusername": "<Your SFTP Server Username>",
+    "password": "<Your SFTP Server Password>",
+    "sftpkey": "<Your SFTP SSH Key's KeyVault Location>",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
